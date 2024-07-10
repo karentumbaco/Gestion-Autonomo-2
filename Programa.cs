@@ -16,7 +16,7 @@ namespace Trabajo_autonomo
     internal class Programa
     {
 
-        private static string connectionString = "Server=localhost;uid=root;pwd=123456;database=restaurante";
+        private static string connectionString = "Server=localhost;uid=root;pwd=admin;database=restaurante";
 
         static void Main(string[] args)
         {
